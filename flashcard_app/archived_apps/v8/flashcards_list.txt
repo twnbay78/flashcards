@@ -1,0 +1,5 @@
+flashcards/flashcard1.json
+flashcards/flashcard2.json
+flashcards/flashcard3.json
+flashcards/flashcard4.json
+flashcards/flashcard5.json
